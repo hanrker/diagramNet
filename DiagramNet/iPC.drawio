@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-05T01:54:54.997Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="MtrIom9v060Q5TVE6BiC" version="14.8.2" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-05T01:56:16.700Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="_vlgRytwwtcqejsxjrnM" version="14.8.2" type="github" pages="2">
   <diagram id="qind4zmR83hFZyTUT4Tu" name="Page-1">
     <mxGraphModel dx="1308" dy="887" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -346,7 +346,7 @@
         <mxCell id="mu7zCtC38vink71R9mNn-2" value="订单中导入构件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="mu7zCtC38vink71R9mNn-1">
           <mxGeometry x="320" y="60" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mu7zCtC38vink71R9mNn-8" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mu7zCtC38vink71R9mNn-1" source="mu7zCtC38vink71R9mNn-6">
+        <mxCell id="mu7zCtC38vink71R9mNn-8" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="mu7zCtC38vink71R9mNn-1" source="mu7zCtC38vink71R9mNn-6" target="mu7zCtC38vink71R9mNn-16">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="570" y="240" as="targetPoint" />
           </mxGeometry>
@@ -367,21 +367,7 @@
           <mxGeometry x="295" y="340" width="170" height="80" as="geometry" />
         </mxCell>
         <mxCell id="mu7zCtC38vink71R9mNn-16" value="在添加的订单下新增构件型号" style="whiteSpace=wrap;html=1;" vertex="1" parent="mu7zCtC38vink71R9mNn-1">
-          <mxGeometry x="827" y="210" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="mu7zCtC38vink71R9mNn-19" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mu7zCtC38vink71R9mNn-1" source="mu7zCtC38vink71R9mNn-17" target="mu7zCtC38vink71R9mNn-18">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="mu7zCtC38vink71R9mNn-21" value="否" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mu7zCtC38vink71R9mNn-1" source="mu7zCtC38vink71R9mNn-17">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="820" y="240" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="mu7zCtC38vink71R9mNn-17" value="通用中有此构件型号" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="mu7zCtC38vink71R9mNn-1">
-          <mxGeometry x="570" y="200" width="170" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="mu7zCtC38vink71R9mNn-18" value="使用通用构件型号" style="whiteSpace=wrap;html=1;" vertex="1" parent="mu7zCtC38vink71R9mNn-1">
-          <mxGeometry x="595" y="350" width="120" height="60" as="geometry" />
+          <mxGeometry x="580" y="210" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
