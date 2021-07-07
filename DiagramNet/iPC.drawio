@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-07-07T07:06:55.395Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="ch_lURkj1zekL0J1M_JO" version="14.8.4" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2021-07-07T10:05:09.250Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/91.0.4472.124 Safari/537.36 Edg/91.0.864.64" etag="cUynC6-Lla9v4-1WZovv" version="14.8.4" type="github" pages="2">
   <diagram id="qind4zmR83hFZyTUT4Tu" name="业务流程">
     <mxGraphModel dx="1508" dy="1004" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -334,7 +334,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="foPdhUtRVX412IoH8lis" name="导入信息">
-    <mxGraphModel dx="862" dy="574" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1040" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="mu7zCtC38vink71R9mNn-0" />
         <mxCell id="mu7zCtC38vink71R9mNn-1" parent="mu7zCtC38vink71R9mNn-0" />
@@ -358,7 +358,7 @@
         <mxCell id="mu7zCtC38vink71R9mNn-10" value="使用订单中的构件型号" style="whiteSpace=wrap;html=1;" parent="mu7zCtC38vink71R9mNn-1" vertex="1">
           <mxGeometry x="185" y="550" width="140" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="mu7zCtC38vink71R9mNn-13" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mu7zCtC38vink71R9mNn-1" source="mu7zCtC38vink71R9mNn-12" target="mu7zCtC38vink71R9mNn-10" edge="1">
+        <mxCell id="mu7zCtC38vink71R9mNn-13" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="mu7zCtC38vink71R9mNn-1" source="mu7zCtC38vink71R9mNn-12" target="mu7zCtC38vink71R9mNn-10" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="mu7zCtC38vink71R9mNn-12" value="文件中构件型号信息&lt;br&gt;与系统的一致" style="rhombus;whiteSpace=wrap;html=1;" parent="mu7zCtC38vink71R9mNn-1" vertex="1">
@@ -384,7 +384,7 @@
         <mxCell id="5zHlsj5cYM8NaEm5OSym-6" value="使用通用型号" style="whiteSpace=wrap;html=1;" vertex="1" parent="mu7zCtC38vink71R9mNn-1">
           <mxGeometry x="445" y="550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="5zHlsj5cYM8NaEm5OSym-8" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mu7zCtC38vink71R9mNn-1" source="5zHlsj5cYM8NaEm5OSym-7" target="5zHlsj5cYM8NaEm5OSym-6">
+        <mxCell id="5zHlsj5cYM8NaEm5OSym-8" value="是" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="mu7zCtC38vink71R9mNn-1" source="5zHlsj5cYM8NaEm5OSym-7" target="5zHlsj5cYM8NaEm5OSym-6">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="5zHlsj5cYM8NaEm5OSym-7" value="文件中构件型号信息&lt;br&gt;与系统的一致" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="mu7zCtC38vink71R9mNn-1">
