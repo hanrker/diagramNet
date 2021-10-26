@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-26T04:21:27.718Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="4rJNZ5zX0jen7E8rttyF" version="15.5.2" type="github" pages="3">
+<mxfile host="app.diagrams.net" modified="2021-10-26T04:53:51.720Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="bV4k1i8asut5KMHr5w-2" version="15.5.2" type="github" pages="5">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1143" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -378,6 +378,43 @@
       <root>
         <mxCell id="rKlRnOJUQMtGrq35W7-8-0" />
         <mxCell id="rKlRnOJUQMtGrq35W7-8-1" parent="rKlRnOJUQMtGrq35W7-8-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="h3MrGwzVCXcXdXIRm7lI" name="模块">
+    <mxGraphModel dx="1143" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="pqGrYT9Gd0SISCZaUpqB-0" />
+        <mxCell id="pqGrYT9Gd0SISCZaUpqB-1" parent="pqGrYT9Gd0SISCZaUpqB-0" />
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="Cwki0kfWd8maT71YeH80" name="Page-5">
+    <mxGraphModel dx="1143" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="lAIAhdXHl_VIMr8Q3-rm-0" />
+        <mxCell id="lAIAhdXHl_VIMr8Q3-rm-1" parent="lAIAhdXHl_VIMr8Q3-rm-0" />
+        <mxCell id="lAIAhdXHl_VIMr8Q3-rm-2" value="物料需求计划" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lAIAhdXHl_VIMr8Q3-rm-1">
+          <mxGeometry x="220" y="50" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAIAhdXHl_VIMr8Q3-rm-3" value="领用" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lAIAhdXHl_VIMr8Q3-rm-1">
+          <mxGeometry x="40" y="760" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAIAhdXHl_VIMr8Q3-rm-4" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="lAIAhdXHl_VIMr8Q3-rm-1" source="lAIAhdXHl_VIMr8Q3-rm-5" target="lAIAhdXHl_VIMr8Q3-rm-8">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="lAIAhdXHl_VIMr8Q3-rm-5" value="常备件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lAIAhdXHl_VIMr8Q3-rm-1">
+          <mxGeometry x="100" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAIAhdXHl_VIMr8Q3-rm-6" value="库存容量" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lAIAhdXHl_VIMr8Q3-rm-1">
+          <mxGeometry x="530" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAIAhdXHl_VIMr8Q3-rm-7" value="库存件" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="lAIAhdXHl_VIMr8Q3-rm-1">
+          <mxGeometry x="320" y="160" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="lAIAhdXHl_VIMr8Q3-rm-8" value="低于规定值" style="rhombus;whiteSpace=wrap;html=1;" vertex="1" parent="lAIAhdXHl_VIMr8Q3-rm-1">
+          <mxGeometry x="120" y="300" width="80" height="80" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
