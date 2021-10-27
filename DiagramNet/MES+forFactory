@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2021-10-27T03:41:20.894Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="D12hAP3IavAVoOy3YM9R" version="15.5.9" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-27T03:58:04.255Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.30" etag="E5XrGqfGsM2___QiEQa1" version="15.5.9" type="github" pages="6">
   <diagram name="Page-1" id="c4acf3e9-155e-7222-9cf6-157b1a14988f">
     <mxGraphModel dx="1143" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="none" math="0" shadow="0">
       <root>
@@ -382,7 +382,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="h3MrGwzVCXcXdXIRm7lI" name="模块">
-    <mxGraphModel dx="1040" dy="692" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1774" dy="1181" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="pqGrYT9Gd0SISCZaUpqB-0" />
         <mxCell id="pqGrYT9Gd0SISCZaUpqB-1" parent="pqGrYT9Gd0SISCZaUpqB-0" />
@@ -493,7 +493,7 @@
           <mxGeometry x="670" y="40" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="KPqmjsu_f7vgSL5Biq6f-35" value="A1堆场" style="swimlane;startSize=30;" parent="pqGrYT9Gd0SISCZaUpqB-1" vertex="1">
-          <mxGeometry x="62.86" y="970" width="710" height="440" as="geometry">
+          <mxGeometry x="840" y="420" width="600" height="520" as="geometry">
             <mxRectangle y="20" width="130" height="23" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -571,10 +571,10 @@
           <mxGeometry x="65" y="22" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="eRMIT8DdNKtDyWNaXsUD-107" value="模板" style="whiteSpace=wrap;html=1;" vertex="1" parent="KPqmjsu_f7vgSL5Biq6f-35">
-          <mxGeometry x="625" y="40" width="30" height="30" as="geometry" />
+          <mxGeometry x="515" y="30" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eRMIT8DdNKtDyWNaXsUD-108" value="配置" style="whiteSpace=wrap;html=1;" vertex="1" parent="KPqmjsu_f7vgSL5Biq6f-35">
-          <mxGeometry x="670" y="40" width="30" height="30" as="geometry" />
+          <mxGeometry x="560" y="30" width="30" height="30" as="geometry" />
         </mxCell>
         <mxCell id="eRMIT8DdNKtDyWNaXsUD-0" value="构件自动定位&lt;br&gt;&lt;br&gt;1、入库时通过定位服务记录入库批次得 坐标（x,y）,&lt;br&gt;2、根据原点与构件坐标 在界面上展示构件所在方位，甚至导航&lt;br&gt;3、根据产品的轮廓长、宽、高生成批次占位长方体，以三维模型或者平面矩形生成区域的库存情况" style="whiteSpace=wrap;html=1;align=left;verticalAlign=top;" vertex="1" parent="KPqmjsu_f7vgSL5Biq6f-35">
           <mxGeometry x="250" y="200" width="340" height="230" as="geometry" />
@@ -741,17 +741,11 @@
         <mxCell id="eRMIT8DdNKtDyWNaXsUD-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.75;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="pqGrYT9Gd0SISCZaUpqB-1" source="eRMIT8DdNKtDyWNaXsUD-100" target="KPqmjsu_f7vgSL5Biq6f-40">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="eRMIT8DdNKtDyWNaXsUD-111" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="pqGrYT9Gd0SISCZaUpqB-1" source="KPqmjsu_f7vgSL5Biq6f-38" target="KPqmjsu_f7vgSL5Biq6f-2">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="810" y="545" />
-              <mxPoint x="810" y="950" />
-              <mxPoint x="108" y="950" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="eRMIT8DdNKtDyWNaXsUD-112" value="MES 主要流程" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="pqGrYT9Gd0SISCZaUpqB-1">
           <mxGeometry x="340" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="eRMIT8DdNKtDyWNaXsUD-113" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontSize=20;" edge="1" parent="pqGrYT9Gd0SISCZaUpqB-1" source="KPqmjsu_f7vgSL5Biq6f-38" target="KPqmjsu_f7vgSL5Biq6f-2">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
