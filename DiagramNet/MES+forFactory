@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-10-30T02:24:23.230Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.38" etag="_pgMwWupsP4h8cYqvGKc" version="15.6.2" type="github" pages="6">
+<mxfile host="app.diagrams.net" modified="2021-10-30T02:55:31.850Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/95.0.4638.54 Safari/537.36 Edg/95.0.1020.38" etag="p8bx2cwx-rhLubCmSnTx" version="15.6.2" type="github" pages="6">
   <diagram id="h3MrGwzVCXcXdXIRm7lI" name="功能结构图">
-    <mxGraphModel dx="1539" dy="1044" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1257" dy="837" grid="0" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="pqGrYT9Gd0SISCZaUpqB-0" />
         <mxCell id="pqGrYT9Gd0SISCZaUpqB-1" parent="pqGrYT9Gd0SISCZaUpqB-0" />
@@ -371,6 +371,14 @@
         <mxCell id="414V0vZZU8U7iXt0PWQo-3" value="生产任务" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="pqGrYT9Gd0SISCZaUpqB-1" source="414V0vZZU8U7iXt0PWQo-1" target="414V0vZZU8U7iXt0PWQo-2" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="414V0vZZU8U7iXt0PWQo-14" value="生产任务" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="pqGrYT9Gd0SISCZaUpqB-1" source="414V0vZZU8U7iXt0PWQo-1" target="414V0vZZU8U7iXt0PWQo-5" edge="1">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="160" y="1135" />
+              <mxPoint x="160" y="1410" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
         <mxCell id="414V0vZZU8U7iXt0PWQo-26" value="进度" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="pqGrYT9Gd0SISCZaUpqB-1" target="414V0vZZU8U7iXt0PWQo-1" edge="1">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="70" y="1030" as="sourcePoint" />
@@ -468,6 +476,9 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="672" y="1640" as="sourcePoint" />
           </mxGeometry>
+        </mxCell>
+        <mxCell id="414V0vZZU8U7iXt0PWQo-40" value="验收结果" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.75;entryY=1;entryDx=0;entryDy=0;" parent="pqGrYT9Gd0SISCZaUpqB-1" source="414V0vZZU8U7iXt0PWQo-12" target="414V0vZZU8U7iXt0PWQo-10" edge="1">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="414V0vZZU8U7iXt0PWQo-42" value="质量要求" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="pqGrYT9Gd0SISCZaUpqB-1" target="414V0vZZU8U7iXt0PWQo-12" edge="1">
           <mxGeometry relative="1" as="geometry">
